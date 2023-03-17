@@ -1,6 +1,6 @@
 ### Hi, I'm Thato 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarto-4rf4r341re31r4ff4 r4&label=Profile%20views&color=0e75b6&style=flat" alt="Tarto-4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarto-4rf4r341re31r4ff4 r4&label=Profile%20views&color=0e75b6&style=flat" alt="Thato" /> </p>
 
 
 I'm a Full-Stack Software Engineering student at ALX from South Africa. I have experience building websites using HTML, CSS and Javascript. I also enjoy building side projects in my free time.
