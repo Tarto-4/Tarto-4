@@ -1,9 +1,9 @@
 ### Hi, I'm Thato 👋
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarto-4&label=Profile%20views&color=0e75b6&style=flat" alt="tarto-4" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_pronicks" target="blank"><img src="https://img.shields.io/twitter/follow/_pronicks?logo=twitter&style=for-the-badge" alt="_pronicks" /></a> </p>
+<p align="left"> <a href="https://twitter.com/THATOMongwe4" target="blank"><img src="https://img.shields.io/twitter/follow/THATOMongwe4?logo=twitter&style=for-the-badge" alt="THATOMongwe4" /></a> </p>
 <br>
 
 
