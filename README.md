@@ -13,5 +13,5 @@ I'm a Full-Stack Software Engineering student at ALX from South Africa. I have e
 
 [![Thato Mongwe's github stats](https://github-readme-stats.vercel.app/api?username=Tarto-4&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on honing my skills as a full-stack software engineer, and simultaneously sharpening my knowledge on HTML, CSS and Javascript 
+- 🔭 I’m focused on honing my skills as a full-stack software engineer, and sharpening my knowledge on HTML, CSS and Javascript 
 - 🌱 I’m currently learning Software Engineering at ALX.
