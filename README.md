@@ -7,7 +7,7 @@
 <br>
 
 
-I'm a Full-Stack Software Engineering student at ALX from South Africa. I have experience building websites using HTML, CSS and Javascript. I also enjoy building side projects in my free time.
+I'm a Full-Stack Software Devolopment student at Microverse from South Africa. I have experience building websites using HTML, CSS and Javascript. I also enjoy building side projects in my free time.
 
 🐦 **[Follow Or Reach Out On Twitter](https://twitter.com/THATOMongwe4)**<br/>
 
